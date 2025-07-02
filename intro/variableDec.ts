@@ -12,7 +12,7 @@ console.log(userId)
 // “I don’t know (or care) what type this is — just trust me.”
 
 
-// let hero  when i declered the hero(any) this is the any marker not the type it wasnot know what type it shoule return 
+// let hero               when i declered the hero(any) this is the any marker not the type it wasnot know      what  type it shoule return 
 let hero:string; 
 
 function greetingAny(){
